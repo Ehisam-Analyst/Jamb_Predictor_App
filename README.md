@@ -46,5 +46,5 @@ Using a trained regression model (like Linear Regression), the app:
 ### ✅ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/jamb-performance-predictor.git
+git clone https://github.com/yourusername/Jamb_Predictor_App.git
 cd jamb-performance-predictor
