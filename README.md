@@ -13,7 +13,6 @@ To provide an intelligent, AI-driven tool that helps:
 
 This project uses data such as:
 - School type
-- WAEC scores
 - Socioeconomic status
 - Number of retakes
 - Parental involvement
