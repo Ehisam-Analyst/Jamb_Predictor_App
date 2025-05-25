@@ -39,11 +39,3 @@ Using a trained regression model (like Linear Regression), the app:
 - ✅ Simple and beginner-friendly interface
 
 ---
-
-## 🖥️ Setup Instructions
-
-### ✅ 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/Jamb_Predictor_App.git
-cd jamb-performance-predictor
